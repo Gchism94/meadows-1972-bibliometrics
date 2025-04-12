@@ -1,4 +1,4 @@
-# Project compendium template
+# Meadows 1972 Bibliometrics
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
@@ -29,8 +29,8 @@ This repository is organized as a reproducible research compendium. Future updat
         └── supplementaryTables/      
                             # supplementary tables for the main manuscript 
     
-    R/Python/etc.           # scripts to run in the following order (also see associated README.md)
-        └── script.*        # hypothetical script used to wrangle the raw data, produce figures, analyses, and supplementary materials
+      src                   # scripts to run in the following order (also see associated README.md)
+        └── script.*        # script used to wrangle the raw data, produce figures, analyses, and supplementary materials
 
         
 
